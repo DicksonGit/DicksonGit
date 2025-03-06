@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DicksonGit
-- 👀 I’m interested in tech and mma
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in tech, soccer and mma
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 you can reach me on email via ghomsco@gmail.com
 - ⚡ Fun fact: I have 10 fingers
